@@ -135,7 +135,7 @@ module.exports = akame = async (akame, m, chatUpdate, store) => {
         const menuju = `${jhari}Hari ${jjam}Jam ${mmmenit}Menit ${ddetik}Detik`
         
         //buttons Tambahan
-        const ntiktok = ('© Ghilar\nTikTok/Github :\nhttps://github.com/Abuzzpoet')  //ubah di config biar ngk emror
+        const ntiktok = ('© Ghilar\nTikTok/Github :\nhttps://github.com/Ghilar')  //ubah di config biar ngk emror
         const ini_mark = `0@s.whatsapp.net`
         const ownernya = ownernomer + '@s.whatsapp.net'
         
